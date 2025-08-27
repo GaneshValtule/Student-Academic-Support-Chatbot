@@ -1,0 +1,201 @@
+Student_ID,Student Name,Subject,Marks,Assignments Completed,Total Assignments,Attendance %,Remarks
+S001,Scott Davis,DBMS,58,3,10,82.12,Pass
+S001,Scott Davis,OS,73,0,12,78.93,Pass
+S001,Scott Davis,DSA,62,14,15,87.73,Pass
+S001,Scott Davis,ML,77,4,8,68.72,Fail
+S002,Curtis Diaz,DBMS,87,3,10,92.78,Pass
+S002,Curtis Diaz,OS,70,10,12,96.52,Pass
+S002,Curtis Diaz,DSA,67,9,15,88.32,Pass
+S002,Curtis Diaz,ML,88,8,8,96.99,Pass
+S003,Sandra Hale,DBMS,77,4,10,74.43,Fail
+S003,Sandra Hale,OS,80,8,12,97.94,Pass
+S003,Sandra Hale,DSA,49,3,15,92.77,Fail
+S003,Sandra Hale,ML,56,0,8,93.04,Pass
+S004,George Huynh,DBMS,89,10,10,92.46,Pass
+S004,George Huynh,OS,41,12,12,66.72,Fail
+S004,George Huynh,DSA,83,4,15,89.43,Pass
+S004,George Huynh,ML,40,2,8,84.85,Fail
+S005,George White,DBMS,67,5,10,77.99,Pass
+S005,George White,OS,78,8,12,69.38,Fail
+S005,George White,DSA,51,12,15,84.79,Pass
+S005,George White,ML,57,4,8,62.66,Fail
+S006,Michelle Fuller,DBMS,76,4,10,86.71,Pass
+S006,Michelle Fuller,OS,91,12,12,60.98,Fail
+S006,Michelle Fuller,DSA,76,0,15,81.94,Pass
+S006,Michelle Fuller,ML,80,3,8,78.85,Pass
+S007,Anthony Mcconnell,DBMS,82,1,10,86.09,Pass
+S007,Anthony Mcconnell,OS,48,6,12,73.41,Fail
+S007,Anthony Mcconnell,DSA,86,2,15,95.08,Pass
+S007,Anthony Mcconnell,ML,100,8,8,87.01,Pass
+S008,Sydney Sims,DBMS,73,7,10,84.61,Pass
+S008,Sydney Sims,OS,56,1,12,63.09,Fail
+S008,Sydney Sims,DSA,53,6,15,64.48,Fail
+S008,Sydney Sims,ML,98,0,8,80.56,Pass
+S009,Jamie Hale,DBMS,55,9,10,98.87,Pass
+S009,Jamie Hale,OS,66,3,12,81.29,Pass
+S009,Jamie Hale,DSA,71,2,15,77.67,Pass
+S009,Jamie Hale,ML,50,5,8,71.16,Fail
+S010,Miss Jennifer Reyes,DBMS,81,9,10,62.0,Fail
+S010,Miss Jennifer Reyes,OS,81,2,12,61.45,Fail
+S010,Miss Jennifer Reyes,DSA,54,1,15,67.73,Fail
+S010,Miss Jennifer Reyes,ML,55,7,8,89.38,Pass
+S011,Paul Smith,DBMS,81,9,10,98.4,Pass
+S011,Paul Smith,OS,80,0,12,78.59,Pass
+S011,Paul Smith,DSA,69,3,15,63.44,Fail
+S011,Paul Smith,ML,48,7,8,62.78,Fail
+S012,Dustin Montgomery,DBMS,62,10,10,65.31,Fail
+S012,Dustin Montgomery,OS,89,5,12,83.57,Pass
+S012,Dustin Montgomery,DSA,46,13,15,61.35,Fail
+S012,Dustin Montgomery,ML,72,8,8,89.37,Pass
+S013,Amanda Hunt,DBMS,45,0,10,99.54,Fail
+S013,Amanda Hunt,OS,60,9,12,72.33,Fail
+S013,Amanda Hunt,DSA,40,15,15,62.12,Fail
+S013,Amanda Hunt,ML,53,4,8,72.64,Fail
+S014,Aaron Cook,DBMS,83,5,10,89.94,Pass
+S014,Aaron Cook,OS,61,7,12,83.72,Pass
+S014,Aaron Cook,DSA,51,15,15,87.71,Pass
+S014,Aaron Cook,ML,46,6,8,88.41,Fail
+S015,Hannah Patel,DBMS,44,1,10,92.47,Fail
+S015,Hannah Patel,OS,69,11,12,92.34,Pass
+S015,Hannah Patel,DSA,89,11,15,83.52,Pass
+S015,Hannah Patel,ML,96,1,8,88.21,Pass
+S016,Mrs. Sarah Hunter MD,DBMS,47,1,10,98.52,Fail
+S016,Mrs. Sarah Hunter MD,OS,56,7,12,64.1,Fail
+S016,Mrs. Sarah Hunter MD,DSA,75,7,15,86.16,Pass
+S016,Mrs. Sarah Hunter MD,ML,47,5,8,78.81,Fail
+S017,Timothy Miller,DBMS,58,2,10,75.02,Pass
+S017,Timothy Miller,OS,45,3,12,82.4,Fail
+S017,Timothy Miller,DSA,58,0,15,62.87,Fail
+S017,Timothy Miller,ML,44,0,8,73.38,Fail
+S018,Carla Hamilton,DBMS,66,0,10,67.67,Fail
+S018,Carla Hamilton,OS,42,0,12,89.34,Fail
+S018,Carla Hamilton,DSA,47,11,15,80.53,Fail
+S018,Carla Hamilton,ML,88,5,8,80.61,Pass
+S019,Christina Jones,DBMS,49,5,10,91.21,Fail
+S019,Christina Jones,OS,71,11,12,91.37,Pass
+S019,Christina Jones,DSA,44,14,15,67.18,Fail
+S019,Christina Jones,ML,53,5,8,99.81,Pass
+S020,Phillip Stewart,DBMS,53,4,10,80.22,Pass
+S020,Phillip Stewart,OS,53,9,12,94.77,Pass
+S020,Phillip Stewart,DSA,63,14,15,95.82,Pass
+S020,Phillip Stewart,ML,100,7,8,74.26,Fail
+S021,Jennifer Hansen,DBMS,47,7,10,74.7,Fail
+S021,Jennifer Hansen,OS,86,0,12,98.99,Pass
+S021,Jennifer Hansen,DSA,61,7,15,99.61,Pass
+S021,Jennifer Hansen,ML,45,4,8,80.7,Fail
+S022,Andrew Wright,DBMS,40,9,10,61.79,Fail
+S022,Andrew Wright,OS,66,8,12,93.14,Pass
+S022,Andrew Wright,DSA,51,6,15,73.41,Fail
+S022,Andrew Wright,ML,73,7,8,83.34,Pass
+S023,Joy Williams,DBMS,93,9,10,92.55,Pass
+S023,Joy Williams,OS,53,3,12,93.11,Pass
+S023,Joy Williams,DSA,93,5,15,90.54,Pass
+S023,Joy Williams,ML,69,7,8,71.1,Fail
+S024,Daniel Jones,DBMS,46,10,10,82.41,Fail
+S024,Daniel Jones,OS,46,7,12,80.19,Fail
+S024,Daniel Jones,DSA,71,2,15,81.57,Pass
+S024,Daniel Jones,ML,80,3,8,95.15,Pass
+S025,Tanya Frederick,DBMS,89,9,10,62.78,Fail
+S025,Tanya Frederick,OS,75,12,12,98.19,Pass
+S025,Tanya Frederick,DSA,62,6,15,86.91,Pass
+S025,Tanya Frederick,ML,84,0,8,94.25,Pass
+S026,Amber Thompson,DBMS,55,8,10,84.46,Pass
+S026,Amber Thompson,OS,91,7,12,96.92,Pass
+S026,Amber Thompson,DSA,68,5,15,73.8,Fail
+S026,Amber Thompson,ML,55,3,8,97.38,Pass
+S027,Edward Thompson,DBMS,94,3,10,71.59,Fail
+S027,Edward Thompson,OS,53,10,12,80.85,Pass
+S027,Edward Thompson,DSA,100,13,15,72.16,Fail
+S027,Edward Thompson,ML,49,4,8,97.98,Fail
+S028,Pamela Mcmillan PhD,DBMS,66,8,10,84.3,Pass
+S028,Pamela Mcmillan PhD,OS,89,4,12,76.56,Pass
+S028,Pamela Mcmillan PhD,DSA,47,4,15,81.15,Fail
+S028,Pamela Mcmillan PhD,ML,40,3,8,66.54,Fail
+S029,Joshua Hall,DBMS,51,9,10,95.73,Pass
+S029,Joshua Hall,OS,49,10,12,94.76,Fail
+S029,Joshua Hall,DSA,46,6,15,71.41,Fail
+S029,Joshua Hall,ML,93,6,8,76.76,Pass
+S030,Mary Maxwell,DBMS,97,4,10,79.05,Pass
+S030,Mary Maxwell,OS,90,12,12,65.34,Fail
+S030,Mary Maxwell,DSA,93,2,15,81.69,Pass
+S030,Mary Maxwell,ML,59,1,8,75.18,Pass
+S031,James Singh,DBMS,49,6,10,67.65,Fail
+S031,James Singh,OS,62,5,12,81.88,Pass
+S031,James Singh,DSA,54,15,15,61.94,Fail
+S031,James Singh,ML,87,2,8,94.04,Pass
+S032,Stacy Castillo,DBMS,53,6,10,83.9,Pass
+S032,Stacy Castillo,OS,92,7,12,78.14,Pass
+S032,Stacy Castillo,DSA,91,4,15,92.64,Pass
+S032,Stacy Castillo,ML,75,8,8,85.17,Pass
+S033,Andrew Hanson,DBMS,42,2,10,97.39,Fail
+S033,Andrew Hanson,OS,61,8,12,82.84,Pass
+S033,Andrew Hanson,DSA,94,12,15,76.29,Pass
+S033,Andrew Hanson,ML,77,2,8,78.41,Pass
+S034,Jessica Carroll,DBMS,73,9,10,67.22,Fail
+S034,Jessica Carroll,OS,51,9,12,94.91,Pass
+S034,Jessica Carroll,DSA,51,9,15,70.68,Fail
+S034,Jessica Carroll,ML,87,1,8,87.87,Pass
+S035,Michael Bailey,DBMS,57,4,10,69.5,Fail
+S035,Michael Bailey,OS,97,8,12,61.3,Fail
+S035,Michael Bailey,DSA,95,3,15,88.06,Pass
+S035,Michael Bailey,ML,66,3,8,99.63,Pass
+S036,Kenneth Kline,DBMS,69,10,10,65.61,Fail
+S036,Kenneth Kline,OS,96,7,12,96.44,Pass
+S036,Kenneth Kline,DSA,82,1,15,70.69,Fail
+S036,Kenneth Kline,ML,74,2,8,83.49,Pass
+S037,Linda Charles,DBMS,91,2,10,61.77,Fail
+S037,Linda Charles,OS,98,8,12,92.35,Pass
+S037,Linda Charles,DSA,73,6,15,95.55,Pass
+S037,Linda Charles,ML,64,4,8,90.21,Pass
+S038,Christopher Meadows,DBMS,42,9,10,99.88,Fail
+S038,Christopher Meadows,OS,58,3,12,93.15,Pass
+S038,Christopher Meadows,DSA,58,13,15,84.13,Pass
+S038,Christopher Meadows,ML,64,6,8,61.3,Fail
+S039,Debra Castro,DBMS,85,2,10,76.48,Pass
+S039,Debra Castro,OS,69,3,12,69.65,Fail
+S039,Debra Castro,DSA,56,7,15,71.81,Fail
+S039,Debra Castro,ML,61,3,8,72.62,Fail
+S040,Sharon Frank,DBMS,55,6,10,85.63,Pass
+S040,Sharon Frank,OS,97,9,12,66.39,Fail
+S040,Sharon Frank,DSA,42,10,15,93.12,Fail
+S040,Sharon Frank,ML,58,0,8,97.92,Pass
+S041,Dr. Matthew Murillo II,DBMS,91,5,10,94.71,Pass
+S041,Dr. Matthew Murillo II,OS,99,11,12,97.71,Pass
+S041,Dr. Matthew Murillo II,DSA,87,14,15,81.64,Pass
+S041,Dr. Matthew Murillo II,ML,58,2,8,75.12,Pass
+S042,Mrs. Jessica Johnson,DBMS,72,9,10,60.87,Fail
+S042,Mrs. Jessica Johnson,OS,61,1,12,66.05,Fail
+S042,Mrs. Jessica Johnson,DSA,59,0,15,67.24,Fail
+S042,Mrs. Jessica Johnson,ML,46,8,8,99.64,Fail
+S043,Mrs. Jennifer Rodriguez,DBMS,52,7,10,81.39,Pass
+S043,Mrs. Jennifer Rodriguez,OS,92,12,12,74.49,Fail
+S043,Mrs. Jennifer Rodriguez,DSA,97,11,15,70.8,Fail
+S043,Mrs. Jennifer Rodriguez,ML,94,1,8,97.05,Pass
+S044,Jamie Rowe,DBMS,41,5,10,88.71,Fail
+S044,Jamie Rowe,OS,88,10,12,89.02,Pass
+S044,Jamie Rowe,DSA,95,0,15,73.59,Fail
+S044,Jamie Rowe,ML,88,8,8,95.18,Pass
+S045,Travis Lopez,DBMS,51,4,10,99.11,Pass
+S045,Travis Lopez,OS,59,4,12,75.01,Pass
+S045,Travis Lopez,DSA,100,12,15,87.97,Pass
+S045,Travis Lopez,ML,44,1,8,95.57,Fail
+S046,Jeremiah Howard,DBMS,57,0,10,97.33,Pass
+S046,Jeremiah Howard,OS,43,3,12,95.58,Fail
+S046,Jeremiah Howard,DSA,85,12,15,80.03,Pass
+S046,Jeremiah Howard,ML,58,4,8,62.71,Fail
+S047,Mathew Ellis,DBMS,75,2,10,88.0,Pass
+S047,Mathew Ellis,OS,92,10,12,61.78,Fail
+S047,Mathew Ellis,DSA,72,0,15,98.01,Pass
+S047,Mathew Ellis,ML,62,1,8,97.72,Pass
+S048,Kenneth Reyes,DBMS,98,9,10,74.45,Fail
+S048,Kenneth Reyes,OS,68,6,12,68.6,Fail
+S048,Kenneth Reyes,DSA,40,11,15,72.51,Fail
+S048,Kenneth Reyes,ML,64,4,8,68.93,Fail
+S049,Jeffrey Davila,DBMS,93,10,10,70.27,Fail
+S049,Jeffrey Davila,OS,97,4,12,66.3,Fail
+S049,Jeffrey Davila,DSA,77,12,15,73.91,Fail
+S049,Jeffrey Davila,ML,43,8,8,88.76,Fail
+S050,Charles Ramirez,DBMS,79,6,10,91.89,Pass
+S050,Charles Ramirez,OS,71,10,12,84.27,Pass
+S050,Charles Ramirez,DSA,40,13,15,69.9,Fail
+S050,Charles Ramirez,ML,93,7,8,76.46,Pass
