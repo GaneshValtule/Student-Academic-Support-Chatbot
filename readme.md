@@ -1,5 +1,7 @@
 # 🎓 Student Academic Support Chatbot
 
+Link: https://student-academic-support-chatbot-gkc3wbuiz4ccqlktx6ppqk.streamlit.app/
+
 This project is an AI-powered chatbot designed to assist with student academic queries by analyzing student performance data. It leverages [LangChain](https://github.com/langchain-ai/langchain), [OpenAI](https://platform.openai.com/), and [Streamlit](https://streamlit.io/) to provide interactive, intelligent responses about student grades, assignments, attendance, and more.
 
 ---
