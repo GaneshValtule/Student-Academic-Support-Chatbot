@@ -81,28 +81,28 @@ def handle_deterministic_queries(user_input, df):
     
     normalized = user_input.lower()
     
-    if "top 3 students" in normalized:
-        if "in" in normalized:
-            subject = normalized.split("in")[-1].strip()
-            subject_df = df[df["subject"].str.lower().str.strip() == subject.lower().strip()]
-            if subject_df.empty:
-                available_subjects = ", ".join(df["subject"].unique())
-                return f"No data found for subject: {subject}. Available subjects are: {available_subjects}"
-            ranking = subject_df.groupby("name")["marks"].mean().sort_values(ascending=False).head(3)
-        else:
-            ranking = df.groupby("name")["marks"].mean().sort_values(ascending=False).head(3)
-        return "Top 3 Students:\n" + "\n".join([f"{i+1}. {name} ({score})" for i, (name, score) in enumerate(ranking.items())])
+    # if "top 3 students" in normalized:
+    #     if "in" in normalized:
+    #         subject = normalized.split("in")[-1].strip()
+    #         subject_df = df[df["subject"].str.lower().str.strip() == subject.lower().strip()]
+    #         if subject_df.empty:
+    #             available_subjects = ", ".join(df["subject"].unique())
+    #             return f"No data found for subject: {subject}. Available subjects are: {available_subjects}"
+    #         ranking = subject_df.groupby("name")["marks"].mean().sort_values(ascending=False).head(3)
+    #     else:
+    #         ranking = df.groupby("name")["marks"].mean().sort_values(ascending=False).head(3)
+    #     return "Top 3 Students:\n" + "\n".join([f"{i+1}. {name} ({score})" for i, (name, score) in enumerate(ranking.items())])
 
-    if "assignments pending" in normalized:
-        name_match = re.search(r"for (\w+)", normalized)
-        if name_match:
-            student_name = name_match.group(1).capitalize()
-            student_rows = df[df["name"].str.lower() == student_name.lower()]
-            if student_rows.empty:
-                return f"No student found with name {student_name}"
-            pending = (student_rows["total_assignments"].sum() - student_rows["assignments_submitted"].sum())
-            return f"{student_name} has {pending} pending assignments."
-        return "Please specify a student name."
+    # if "assignments pending" in normalized:
+    #     name_match = re.search(r"for (\w+)", normalized)
+    #     if name_match:
+    #         student_name = name_match.group(1).capitalize()
+    #         student_rows = df[df["name"].str.lower() == student_name.lower()]
+    #         if student_rows.empty:
+    #             return f"No student found with name {student_name}"
+    #         pending = (student_rows["total_assignments"].sum() - student_rows["assignments_submitted"].sum())
+    #         return f"{student_name} has {pending} pending assignments."
+    #     return "Please specify a student name."
     
     return None
 
